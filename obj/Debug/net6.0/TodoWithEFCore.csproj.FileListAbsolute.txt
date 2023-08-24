@@ -1,0 +1,578 @@
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\appsettings.Development.json
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\appsettings.json
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\TodoWithEFCore.staticwebassets.runtime.json
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\TodoWithEFCore.exe
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\TodoWithEFCore.deps.json
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\TodoWithEFCore.runtimeconfig.json
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\TodoWithEFCore.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\TodoWithEFCore.pdb
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Azure.Core.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Azure.Identity.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\System.Memory.Data.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\obj\Debug\net6.0\TodoWithEFCore.csproj.AssemblyReference.cache
+E:\MVS Çalışmalarım\TodoWithEFCore\obj\Debug\net6.0\TodoWithEFCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\MVS Çalışmalarım\TodoWithEFCore\obj\Debug\net6.0\TodoWithEFCore.AssemblyInfoInputs.cache
+E:\MVS Çalışmalarım\TodoWithEFCore\obj\Debug\net6.0\TodoWithEFCore.AssemblyInfo.cs
+E:\MVS Çalışmalarım\TodoWithEFCore\obj\Debug\net6.0\TodoWithEFCore.csproj.CoreCompileInputs.cache
+E:\MVS Çalışmalarım\TodoWithEFCore\obj\Debug\net6.0\TodoWithEFCore.MvcApplicationPartsAssemblyInfo.cache
+E:\MVS Çalışmalarım\TodoWithEFCore\obj\Debug\net6.0\TodoWithEFCore.RazorAssemblyInfo.cache
+E:\MVS Çalışmalarım\TodoWithEFCore\obj\Debug\net6.0\TodoWithEFCore.RazorAssemblyInfo.cs
+E:\MVS Çalışmalarım\TodoWithEFCore\obj\Debug\net6.0\staticwebassets\msbuild.TodoWithEFCore.Microsoft.AspNetCore.StaticWebAssets.props
+E:\MVS Çalışmalarım\TodoWithEFCore\obj\Debug\net6.0\staticwebassets\msbuild.build.TodoWithEFCore.props
+E:\MVS Çalışmalarım\TodoWithEFCore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TodoWithEFCore.props
+E:\MVS Çalışmalarım\TodoWithEFCore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TodoWithEFCore.props
+E:\MVS Çalışmalarım\TodoWithEFCore\obj\Debug\net6.0\staticwebassets.pack.json
+E:\MVS Çalışmalarım\TodoWithEFCore\obj\Debug\net6.0\staticwebassets.build.json
+E:\MVS Çalışmalarım\TodoWithEFCore\obj\Debug\net6.0\staticwebassets.development.json
+E:\MVS Çalışmalarım\TodoWithEFCore\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\MVS Çalışmalarım\TodoWithEFCore\obj\Debug\net6.0\scopedcss\bundle\TodoWithEFCore.styles.css
+E:\MVS Çalışmalarım\TodoWithEFCore\obj\Debug\net6.0\scopedcss\projectbundle\TodoWithEFCore.bundle.scp.css
+E:\MVS Çalışmalarım\TodoWithEFCore\obj\Debug\net6.0\TodoWithEFCore.csproj.CopyComplete
+E:\MVS Çalışmalarım\TodoWithEFCore\obj\Debug\net6.0\TodoWithEFCore.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\obj\Debug\net6.0\refint\TodoWithEFCore.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\obj\Debug\net6.0\TodoWithEFCore.pdb
+E:\MVS Çalışmalarım\TodoWithEFCore\obj\Debug\net6.0\TodoWithEFCore.genruntimeconfig.cache
+E:\MVS Çalışmalarım\TodoWithEFCore\obj\Debug\net6.0\ref\TodoWithEFCore.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Humanizer.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\System.CodeDom.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\System.Text.Json.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\MessagePack.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Build.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\NuGet.Common.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\MVS Çalışmalarım\TodoWithEFCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\appsettings.Development.json
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\appsettings.json
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\TodoWithEFCore.staticwebassets.runtime.json
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\TodoWithEFCore.exe
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\TodoWithEFCore.deps.json
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\TodoWithEFCore.runtimeconfig.json
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\TodoWithEFCore.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\TodoWithEFCore.pdb
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Azure.Core.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Azure.Identity.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Humanizer.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\MessagePack.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\NuGet.Common.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\System.CodeDom.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\System.Text.Json.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Backend\TodoWithEFCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Backend\TodoWithEFCore\obj\Debug\net6.0\TodoWithEFCore.csproj.AssemblyReference.cache
+D:\Backend\TodoWithEFCore\obj\Debug\net6.0\TodoWithEFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\TodoWithEFCore\obj\Debug\net6.0\TodoWithEFCore.AssemblyInfoInputs.cache
+D:\Backend\TodoWithEFCore\obj\Debug\net6.0\TodoWithEFCore.AssemblyInfo.cs
+D:\Backend\TodoWithEFCore\obj\Debug\net6.0\TodoWithEFCore.csproj.CoreCompileInputs.cache
+D:\Backend\TodoWithEFCore\obj\Debug\net6.0\TodoWithEFCore.MvcApplicationPartsAssemblyInfo.cache
+D:\Backend\TodoWithEFCore\obj\Debug\net6.0\TodoWithEFCore.RazorAssemblyInfo.cache
+D:\Backend\TodoWithEFCore\obj\Debug\net6.0\TodoWithEFCore.RazorAssemblyInfo.cs
+D:\Backend\TodoWithEFCore\obj\Debug\net6.0\staticwebassets\msbuild.TodoWithEFCore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Backend\TodoWithEFCore\obj\Debug\net6.0\staticwebassets\msbuild.build.TodoWithEFCore.props
+D:\Backend\TodoWithEFCore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TodoWithEFCore.props
+D:\Backend\TodoWithEFCore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TodoWithEFCore.props
+D:\Backend\TodoWithEFCore\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Backend\TodoWithEFCore\obj\Debug\net6.0\staticwebassets.build.json
+D:\Backend\TodoWithEFCore\obj\Debug\net6.0\staticwebassets.development.json
+D:\Backend\TodoWithEFCore\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Backend\TodoWithEFCore\obj\Debug\net6.0\scopedcss\bundle\TodoWithEFCore.styles.css
+D:\Backend\TodoWithEFCore\obj\Debug\net6.0\scopedcss\projectbundle\TodoWithEFCore.bundle.scp.css
+D:\Backend\TodoWithEFCore\obj\Debug\net6.0\TodoWithEFCore.csproj.CopyComplete
+D:\Backend\TodoWithEFCore\obj\Debug\net6.0\TodoWithEFCore.dll
+D:\Backend\TodoWithEFCore\obj\Debug\net6.0\refint\TodoWithEFCore.dll
+D:\Backend\TodoWithEFCore\obj\Debug\net6.0\TodoWithEFCore.pdb
+D:\Backend\TodoWithEFCore\obj\Debug\net6.0\TodoWithEFCore.genruntimeconfig.cache
+D:\Backend\TodoWithEFCore\obj\Debug\net6.0\ref\TodoWithEFCore.dll
